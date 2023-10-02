@@ -1,2 +1,2 @@
 ## To view
-[Projeto - Tabuada](brnmilano.github.io/multiplication-table)
+[Projeto - Tabuada](https://brnmilano.github.io/multiplication-table/)
